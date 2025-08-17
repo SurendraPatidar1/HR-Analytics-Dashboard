@@ -13,7 +13,7 @@ Identify High-Risk Groups – Highlight segments (e.g., young employees, low sal
 
 Support Business Decision-Making – Provide HR managers and leadership with data-driven insights to improve employee retention strategies.
 
-- **Dataset Link:** [Movies Dataset](https://github.com/SurendraPatidar1/Weather_Data_Analysis_Using-Pandas/blob/main/file.csv)
+- **Dataset Link:** [HR Dataset](https://github.com/SurendraPatidar1/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv)
 
 ## Business Problems and Solutions
 
